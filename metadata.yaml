@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '42406'
     url: http://www.gutenberg.org/2009/agents/42406
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43789#La-GermanieTexte-latin-avec-introduction-notes-et-lexique-des-noms-propres
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2013-09-21'
 gutenberg_type: Text
